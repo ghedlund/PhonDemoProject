@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project Version="1.5" name="Demo Project" appid="1.5" uuid="2138f32d-192f-41f3-9cb0-f79d295cbd5f">
+    <corpus name="Anne">
+        <description>Brief transcript with media and TextGrid files (generated for the child only). Only a few sessions have TextGrids are fully aligned.</description>
+        <session name="Session"/>
+    </corpus>
+    <corpus name="Catootje">
+        <description>Longitudinal sampling from Dutch-CLPF original corpus. Phone alignment not verified. Session names represent child's age.</description>
+        <session name="1_10_10"/>
+        <session name="1_10_24"/>
+        <session name="1_11_09"/>
+        <session name="1_11_22"/>
+        <session name="2_00_06"/>
+        <session name="2_00_19"/>
+        <session name="2_01_03"/>
+        <session name="2_02_14"/>
+        <session name="2_02_28"/>
+        <session name="2_03_25"/>
+        <session name="2_04_11"/>
+        <session name="2_04_25"/>
+        <session name="2_05_08"/>
+        <session name="2_05_22"/>
+        <session name="2_06_06"/>
+        <session name="2_07_04"/>
+    </corpus>
+</project>
