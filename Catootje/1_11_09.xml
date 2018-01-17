@@ -55,8 +55,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
@@ -74,8 +74,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
@@ -96,28 +96,16 @@
             <flatTier tierName="Translation">a house</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="ec847b37-5dbe-4c57-b3ab-421d4fdec1a6" excludeFromSearches="false">
@@ -182,28 +170,16 @@
             <flatTier tierName="Translation">an animal (dim)</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="7843ef96-a23c-4817-9793-9b8a62dc1c65" excludeFromSearches="false">
@@ -276,28 +252,16 @@
             <flatTier tierName="Translation">animal (dim) book</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="68362cfe-0b0d-4786-b906-5246bc4c7a04" excludeFromSearches="false">
@@ -339,14 +303,10 @@
             <flatTier tierName="Translation">book</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -393,14 +353,10 @@
             <flatTier tierName="Translation">poo-poo</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -422,7 +378,7 @@
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="C"/>
-                        <ph indexes="4" scType="RA"/>
+                        <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -434,7 +390,7 @@
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="C"/>
-                        <ph indexes="4 5" scType="RA"/>
+                        <ph indexes="4 5" scType="C"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -450,19 +406,13 @@
             <flatTier tierName="Translation">bicycle</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="457d8c56-64bd-4e26-bd5c-425af0229bd6" excludeFromSearches="false">
@@ -480,8 +430,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
@@ -531,9 +481,9 @@
                 <ag length="8">
                     <phomap value="-1 0"/>
                     <phomap value="0 1"/>
-                    <phomap value="1 -1"/>
+                    <phomap value="1 2"/>
                     <phomap value="2 -1"/>
-                    <phomap value="3 2"/>
+                    <phomap value="3 -1"/>
                     <phomap value="4 3"/>
                     <phomap value="5 -1"/>
                     <phomap value="6 -1"/>
@@ -543,28 +493,16 @@
             <flatTier tierName="Translation">look, elephant</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="2242af57-d285-41d4-b6d1-b0f849aedd7a" excludeFromSearches="false">
@@ -578,8 +516,8 @@
                     <w>ˈœyl</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="N" hiatus="false"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
                         <ph indexes="3" scType="C"/>
                     </sb>
                 </pg>
@@ -589,8 +527,8 @@
                     <w>ˈau</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="N" hiatus="false"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -605,14 +543,10 @@
             <flatTier tierName="Translation">owl</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -633,8 +567,8 @@
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
+                        <ph indexes="4" scType="N" hiatus="false"/>
                         <ph indexes="5" scType="O"/>
                         <ph indexes="6" scType="N" hiatus="true"/>
                         <ph indexes="7" scType="C"/>
@@ -647,16 +581,16 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
             </ipaTier>
             <alignment type="segmental">
                 <ag length="7">
-                    <phomap value="0 0"/>
-                    <phomap value="1 -1"/>
+                    <phomap value="0 -1"/>
+                    <phomap value="1 0"/>
                     <phomap value="2 1"/>
                     <phomap value="3 2"/>
                     <phomap value="4 3"/>
@@ -668,14 +602,10 @@
             <flatTier tierName="Translation">peg</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -721,9 +651,9 @@
                 <ag length="8">
                     <phomap value="-1 0"/>
                     <phomap value="0 1"/>
-                    <phomap value="1 -1"/>
+                    <phomap value="1 2"/>
                     <phomap value="2 -1"/>
-                    <phomap value="3 2"/>
+                    <phomap value="3 -1"/>
                     <phomap value="4 3"/>
                     <phomap value="5 -1"/>
                     <phomap value="6 -1"/>
@@ -733,19 +663,13 @@
             <flatTier tierName="Translation">elephant</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="f5baa5d1-bb68-45ac-a41b-ee5c2e00237a" excludeFromSearches="false">
@@ -763,8 +687,8 @@
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                         <ph indexes="7" scType="C"/>
                     </sb>
                 </pg>
@@ -778,8 +702,8 @@
                         <ph indexes="2 3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="SS"/>
                         <ph indexes="5" scType="O"/>
-                        <ph indexes="6 7" scType="N" hiatus="true"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="6 7" scType="N" hiatus="false"/>
+                        <ph indexes="8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="C"/>
                     </sb>
                 </pg>
@@ -798,14 +722,10 @@
             <flatTier tierName="Translation">rabbit</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -842,8 +762,8 @@
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                         <ph indexes="7" scType="C"/>
                     </sb>
                 </pg>
@@ -866,8 +786,8 @@
                         <ph indexes="2 3 4" scType="N" hiatus="true"/>
                         <ph indexes="5" scType="SS"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7 8 9" scType="N" hiatus="true"/>
-                        <ph indexes="10 11" scType="N" hiatus="true"/>
+                        <ph indexes="7 8 9" scType="N" hiatus="false"/>
+                        <ph indexes="10 11" scType="N" hiatus="false"/>
                         <ph indexes="12" scType="C"/>
                         <ph indexes="13 14" scType="C"/>
                     </sb>
@@ -876,8 +796,8 @@
             <alignment type="segmental">
                 <ag length="5">
                     <phomap value="0 0"/>
-                    <phomap value="1 1"/>
-                    <phomap value="2 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 1"/>
                     <phomap value="3 2"/>
                     <phomap value="4 -1"/>
                 </ag>
@@ -895,28 +815,16 @@
             <flatTier tierName="Translation">other rabbit</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="15636324-6d46-4d05-bde6-11d82d90f3a7" excludeFromSearches="false">
@@ -987,28 +895,16 @@
             <flatTier tierName="Translation">get book</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="b0a64a05-d05e-476b-a93d-5ea177076996" excludeFromSearches="false">
@@ -1027,8 +923,8 @@
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="SS"/>
                         <ph indexes="5" scType="O"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1038,8 +934,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1057,19 +953,13 @@
             <flatTier tierName="Translation">both</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="f21d838e-777d-4f89-8366-4c3010b05f29" excludeFromSearches="false">
@@ -1113,19 +1003,13 @@
             <flatTier tierName="Translation">horse</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="7ffd1bf8-fe6a-4e18-a4c7-0df29c0a811b" excludeFromSearches="false">
@@ -1174,14 +1058,10 @@
             <flatTier tierName="Translation">broken</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -1213,8 +1093,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                         <ph indexes="5" scType="C"/>
                     </sb>
@@ -1223,8 +1103,8 @@
             <alignment type="segmental">
                 <ag length="5">
                     <phomap value="0 0"/>
-                    <phomap value="1 1"/>
-                    <phomap value="-1 2"/>
+                    <phomap value="-1 1"/>
+                    <phomap value="1 2"/>
                     <phomap value="2 3"/>
                     <phomap value="3 4"/>
                 </ag>
@@ -1234,14 +1114,10 @@
             <flatTier tierName="Translation">milk</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -1264,8 +1140,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
                 <pg>
@@ -1302,8 +1178,8 @@
             <alignment type="segmental">
                 <ag length="3">
                     <phomap value="0 0"/>
-                    <phomap value="1 1"/>
-                    <phomap value="2 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 1"/>
                 </ag>
                 <ag length="5">
                     <phomap value="0 0"/>
@@ -1317,28 +1193,16 @@
             <flatTier tierName="Translation">look at that</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="fbbb1982-e2ef-43e0-91b7-19ccaf907d41" excludeFromSearches="false">
@@ -1353,8 +1217,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1364,8 +1228,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1 2" scType="O"/>
-                        <ph indexes="3 4" scType="N" hiatus="true"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="3 4" scType="N" hiatus="false"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1380,14 +1244,10 @@
             <flatTier tierName="Translation">beautiful</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -1440,8 +1300,8 @@
                 <ag length="9">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 2"/>
-                    <phomap value="3 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 2"/>
                     <phomap value="4 3"/>
                     <phomap value="5 4"/>
                     <phomap value="6 5"/>
@@ -1453,14 +1313,10 @@
             <flatTier tierName="Translation">panda-baby</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -1483,8 +1339,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
                 <pg>
@@ -1538,28 +1394,16 @@
             <flatTier tierName="Translation">lion daddy (daddy-lion)</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="eb6e7e7f-793a-4e7e-8658-bfc66c321525" excludeFromSearches="false">
@@ -1587,8 +1431,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1609,8 +1453,8 @@
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2 3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6 7" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6 7" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1633,28 +1477,16 @@
             <flatTier tierName="Translation">baby-lion</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="424ab4ca-4bfe-4db4-a90c-16be44f45894" excludeFromSearches="false">
@@ -1702,8 +1534,8 @@
                 <ag length="9">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 2"/>
-                    <phomap value="3 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 2"/>
                     <phomap value="4 3"/>
                     <phomap value="5 4"/>
                     <phomap value="6 5"/>
@@ -1715,14 +1547,10 @@
             <flatTier tierName="Translation">panda-baby</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -1765,8 +1593,8 @@
                 <ag length="5">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 2"/>
-                    <phomap value="3 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 2"/>
                     <phomap value="4 3"/>
                 </ag>
             </alignment>
@@ -1774,14 +1602,10 @@
             <flatTier tierName="Translation">panda</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -1827,19 +1651,13 @@
             <flatTier tierName="Translation">monkey</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="6b4b4090-df08-4a58-a05d-1b72967790d8" excludeFromSearches="false">
@@ -1903,19 +1721,13 @@
             <flatTier tierName="Translation">orange</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="9febc604-40f4-421d-b63f-29723185d0de" excludeFromSearches="false">
@@ -1963,14 +1775,10 @@
             <flatTier tierName="Translation">giraffe</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2023,14 +1831,10 @@
             <flatTier tierName="Translation">giraffe</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2050,8 +1854,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                         <ph indexes="5" scType="SS"/>
                         <ph indexes="6" scType="O"/>
@@ -2091,19 +1895,13 @@
             <flatTier tierName="Translation">hippo</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="a7a0e147-537d-4579-b8a8-741fa517cdff" excludeFromSearches="false">
@@ -2121,8 +1919,8 @@
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                         <ph indexes="7" scType="C"/>
                     </sb>
                 </pg>
@@ -2136,8 +1934,8 @@
                         <ph indexes="2 3 4" scType="N" hiatus="true"/>
                         <ph indexes="5" scType="SS"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8 9" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8 9" scType="N" hiatus="false"/>
                         <ph indexes="10" scType="C"/>
                     </sb>
                 </pg>
@@ -2147,23 +1945,19 @@
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
                     <phomap value="2 2"/>
-                    <phomap value="3 -1"/>
-                    <phomap value="4 3"/>
-                    <phomap value="5 4"/>
+                    <phomap value="3 3"/>
+                    <phomap value="4 4"/>
+                    <phomap value="5 5"/>
                 </ag>
             </alignment>
             <segment startTime="29438.0" duration="916.0" unitType="ms"/>
             <flatTier tierName="Translation">rabbit</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2213,14 +2007,10 @@
             <flatTier tierName="Translation">do-poo-poo</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2267,14 +2057,10 @@
             <flatTier tierName="Translation">soap</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2323,14 +2109,10 @@
             <flatTier tierName="Translation">duck</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2377,14 +2159,10 @@
             <flatTier tierName="Translation">fish</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2406,7 +2184,7 @@
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="C"/>
-                        <ph indexes="4" scType="RA"/>
+                        <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -2435,19 +2213,13 @@
             <flatTier tierName="Translation">nothing</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="f2290cd9-73c6-4303-8330-d5ecd2de0cf9" excludeFromSearches="false">
@@ -2475,7 +2247,7 @@
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="C"/>
-                        <ph indexes="4 5 6" scType="RA"/>
+                        <ph indexes="4 5 6" scType="C"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -2491,14 +2263,10 @@
             <flatTier tierName="Translation">soap</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2548,14 +2316,10 @@
             <flatTier tierName="Translation">wash</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2578,8 +2342,8 @@
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                         <ph indexes="7" scType="C"/>
                     </sb>
                 </pg>
@@ -2612,14 +2376,10 @@
             <flatTier tierName="Translation">rabbit</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2673,14 +2433,10 @@
             <flatTier tierName="Translation">carrot</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2730,14 +2486,10 @@
             <flatTier tierName="Translation">potty</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2787,14 +2539,10 @@
             <flatTier tierName="Translation">mouth</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2848,8 +2596,8 @@
                 <ag length="10">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 2"/>
-                    <phomap value="3 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 2"/>
                     <phomap value="4 3"/>
                     <phomap value="5 4"/>
                     <phomap value="6 5"/>
@@ -2862,14 +2610,10 @@
             <flatTier tierName="Translation">brush teeth</flatTier>
             <flatTier tierName="SegType">i</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2910,8 +2654,8 @@
             </ipaTier>
             <alignment type="segmental">
                 <ag length="5">
-                    <phomap value="0 -1"/>
-                    <phomap value="1 0"/>
+                    <phomap value="0 0"/>
+                    <phomap value="1 -1"/>
                     <phomap value="2 1"/>
                     <phomap value="3 2"/>
                     <phomap value="4 3"/>
@@ -2921,14 +2665,10 @@
             <flatTier tierName="Translation">sleep</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -2978,19 +2718,13 @@
             <flatTier tierName="Translation">this one</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="3fbe7bdc-d8fc-407c-8ea9-1197cfb67843" excludeFromSearches="false">
@@ -3004,7 +2738,7 @@
                     <w>ˈsχɛp</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="LA"/>
+                        <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="C"/>
@@ -3034,14 +2768,10 @@
             <flatTier tierName="Translation">shovel</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3061,8 +2791,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
@@ -3090,19 +2820,13 @@
             <flatTier tierName="Translation">garden</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="f5286b21-9a96-4843-b009-7b3bb1063852" excludeFromSearches="false">
@@ -3147,14 +2871,10 @@
             <flatTier tierName="Translation">toes</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3173,7 +2893,7 @@
                     <w>ˈsχunə</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="LA"/>
+                        <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="O"/>
@@ -3206,19 +2926,13 @@
             <flatTier tierName="Translation">shoes</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="4e915543-3a81-45cb-84e1-3b130f9be7e6" excludeFromSearches="false">
@@ -3281,8 +2995,8 @@
                 <ag length="7">
                     <phomap value="-1 0"/>
                     <phomap value="0 1"/>
-                    <phomap value="1 2"/>
-                    <phomap value="2 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 2"/>
                     <phomap value="3 -1"/>
                     <phomap value="4 -1"/>
                     <phomap value="5 3"/>
@@ -3299,28 +3013,16 @@
             <flatTier tierName="Translation">other boots</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="45323aaa-72bb-4fe3-9323-453cb4df421b" excludeFromSearches="false">
@@ -3361,8 +3063,8 @@
                     <phomap value="0 0"/>
                     <phomap value="1 -1"/>
                     <phomap value="2 1"/>
-                    <phomap value="3 2"/>
-                    <phomap value="4 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 2"/>
                     <phomap value="5 3"/>
                     <phomap value="6 -1"/>
                 </ag>
@@ -3371,14 +3073,10 @@
             <flatTier tierName="Translation">butterfly</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3430,19 +3128,13 @@
             <flatTier tierName="Translation">frog</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="f0ee2e62-3653-401a-bbd3-202936d1cec4" excludeFromSearches="false">
@@ -3462,8 +3154,8 @@
                         <ph indexes="4" scType="C"/>
                         <ph indexes="5" scType="SS"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="C"/>
                     </sb>
                 </pg>
@@ -3478,8 +3170,8 @@
                         <ph indexes="3 4" scType="C"/>
                         <ph indexes="5" scType="SS"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="C"/>
                     </sb>
                 </pg>
@@ -3500,19 +3192,13 @@
             <flatTier tierName="Translation">airplane</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="97e989d2-6ca6-4528-a4ca-f4b915104a70" excludeFromSearches="false">
@@ -3527,8 +3213,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -3538,8 +3224,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -3554,14 +3240,10 @@
             <flatTier tierName="Translation">bee</flatTier>
             <flatTier tierName="SegType">i</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3600,8 +3282,8 @@
             </ipaTier>
             <alignment type="segmental">
                 <ag length="4">
-                    <phomap value="0 0"/>
-                    <phomap value="1 -1"/>
+                    <phomap value="0 -1"/>
+                    <phomap value="1 0"/>
                     <phomap value="2 1"/>
                     <phomap value="3 2"/>
                 </ag>
@@ -3610,14 +3292,10 @@
             <flatTier tierName="Translation">snail</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3636,7 +3314,7 @@
                     <w>ˈspɪn</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="LA"/>
+                        <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="C"/>
@@ -3666,14 +3344,10 @@
             <flatTier tierName="Translation">spider</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3723,14 +3397,10 @@
             <flatTier tierName="Translation">dog</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3780,14 +3450,10 @@
             <flatTier tierName="Translation">hand</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3837,14 +3503,10 @@
             <flatTier tierName="Translation">animal</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3863,7 +3525,7 @@
                     <w>ˈsχɛp</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="LA"/>
+                        <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="C"/>
@@ -3893,14 +3555,10 @@
             <flatTier tierName="Translation">shovel</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -3953,19 +3611,13 @@
             <flatTier tierName="Translation">boots</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="3db9f0ed-2acf-4bb1-ac7b-e5ad79d0b508" excludeFromSearches="false">
@@ -4013,14 +3665,10 @@
             <flatTier tierName="Translation">guitar</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -4071,19 +3719,13 @@
             <flatTier tierName="Translation">pail</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="0af6ede4-a1c1-4890-b130-7e0b8971f3dc" excludeFromSearches="false">
@@ -4101,8 +3743,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
                 <pg>
@@ -4140,9 +3782,10 @@
                     <phomap value="1 -1"/>
                     <phomap value="2 1"/>
                 </ag>
-                <ag length="4">
+                <ag length="5">
                     <phomap value="0 0"/>
-                    <phomap value="1 1"/>
+                    <phomap value="-1 1"/>
+                    <phomap value="1 -1"/>
                     <phomap value="2 -1"/>
                     <phomap value="3 2"/>
                 </ag>
@@ -4151,28 +3794,16 @@
             <flatTier tierName="Translation">look at that</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="d0104d7b-dcb4-423f-ba3c-5da7a80ce39f" excludeFromSearches="false">
@@ -4244,28 +3875,16 @@
             <flatTier tierName="Translation">Theo daddy</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="dc27464d-807b-414b-b459-1954acf65df8" excludeFromSearches="false">
@@ -4341,28 +3960,16 @@
             <flatTier tierName="Translation">read book (dim.)</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="fb3b6cb8-8a48-4674-925a-6b4405cea05f" excludeFromSearches="false">
@@ -4398,11 +4005,12 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="5">
+                <ag length="6">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
                     <phomap value="2 2"/>
-                    <phomap value="3 3"/>
+                    <phomap value="-1 3"/>
+                    <phomap value="3 -1"/>
                     <phomap value="4 -1"/>
                 </ag>
             </alignment>
@@ -4410,14 +4018,10 @@
             <flatTier tierName="Translation">spoon</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -4439,7 +4043,7 @@
                     <w>ˈsχunə</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="LA"/>
+                        <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="O"/>
@@ -4481,8 +4085,8 @@
             </ipaTier>
             <alignment type="segmental">
                 <ag length="5">
-                    <phomap value="0 0"/>
-                    <phomap value="1 -1"/>
+                    <phomap value="0 -1"/>
+                    <phomap value="1 0"/>
                     <phomap value="2 1"/>
                     <phomap value="3 2"/>
                     <phomap value="4 3"/>
@@ -4498,28 +4102,16 @@
             <flatTier tierName="Translation">shoes daddy</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="3e72f0ae-fca4-4d52-bc5e-c152f3f21278" excludeFromSearches="false">
@@ -4569,14 +4161,10 @@
             <flatTier tierName="Translation">boot-lace</flatTier>
             <flatTier tierName="SegType">i</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -4623,14 +4211,10 @@
             <flatTier tierName="Translation">box</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -4680,14 +4264,10 @@
             <flatTier tierName="Translation">boy</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -4706,7 +4286,7 @@
                     <w>ˈsχunə</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="LA"/>
+                        <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="O"/>
@@ -4739,19 +4319,13 @@
             <flatTier tierName="Translation">shoes</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="33ad0575-963b-4868-9f19-59fda5d8ad94" excludeFromSearches="false">
@@ -4787,9 +4361,10 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="5">
+                <ag length="6">
                     <phomap value="0 0"/>
-                    <phomap value="1 1"/>
+                    <phomap value="-1 1"/>
+                    <phomap value="1 -1"/>
                     <phomap value="2 2"/>
                     <phomap value="3 3"/>
                     <phomap value="4 4"/>
@@ -4799,14 +4374,10 @@
             <flatTier tierName="Translation">news paper</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -4858,14 +4429,10 @@
             <flatTier tierName="Translation">flowers</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -4912,14 +4479,10 @@
             <flatTier tierName="Translation">rose</flatTier>
             <flatTier tierName="SegType">i</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -4968,19 +4531,13 @@
             <flatTier tierName="Translation">horse</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="aa9b2ca2-6e6c-4f07-b94b-c61fef7fec53" excludeFromSearches="false">
@@ -5021,19 +4578,13 @@
             <flatTier tierName="Translation">here</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="32cc61f6-a93d-4b4a-b7b8-fc33131ac32d" excludeFromSearches="false">
@@ -5047,7 +4598,7 @@
                     <w>ˈsχap</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="LA"/>
+                        <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="C"/>
@@ -5076,14 +4627,10 @@
             <flatTier tierName="Translation">sheep</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5129,8 +4676,8 @@
                     <phomap value="0 0"/>
                     <phomap value="1 -1"/>
                     <phomap value="2 1"/>
-                    <phomap value="3 2"/>
-                    <phomap value="4 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 2"/>
                     <phomap value="5 3"/>
                     <phomap value="6 -1"/>
                 </ag>
@@ -5139,14 +4686,10 @@
             <flatTier tierName="Translation">butterfly</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5196,14 +4739,10 @@
             <flatTier tierName="Translation">animal</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5249,14 +4788,10 @@
             <flatTier tierName="Translation">pear</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5296,20 +4831,22 @@
                         <ph indexes="3" scType="C"/>
                         <ph indexes="4" scType="SS"/>
                         <ph indexes="5" scType="O"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="8">
+                <ag length="10">
                     <phomap value="-1 0"/>
                     <phomap value="0 1"/>
-                    <phomap value="1 2"/>
-                    <phomap value="2 3"/>
-                    <phomap value="3 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="-1 2"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 3"/>
                     <phomap value="4 4"/>
-                    <phomap value="5 5"/>
+                    <phomap value="-1 5"/>
+                    <phomap value="5 -1"/>
                     <phomap value="6 -1"/>
                 </ag>
             </alignment>
@@ -5317,19 +4854,13 @@
             <flatTier tierName="Translation">elephant</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="5bdadf9a-f473-4f42-b83e-5b06c26a8db5" excludeFromSearches="false">
@@ -5345,8 +4876,8 @@
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
+                        <ph indexes="4" scType="N" hiatus="false"/>
                         <ph indexes="5" scType="C"/>
                     </sb>
                 </pg>
@@ -5358,19 +4889,18 @@
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2 3" scType="O"/>
-                        <ph indexes="4 5 6" scType="N" hiatus="true"/>
-                        <ph indexes="7 8" scType="N" hiatus="true"/>
+                        <ph indexes="4 5 6" scType="N" hiatus="false"/>
+                        <ph indexes="7 8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="C"/>
                     </sb>
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="6">
+                <ag length="5">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 -1"/>
-                    <phomap value="3 2"/>
-                    <phomap value="-1 3"/>
+                    <phomap value="2 2"/>
+                    <phomap value="3 3"/>
                     <phomap value="4 4"/>
                 </ag>
             </alignment>
@@ -5378,19 +4908,13 @@
             <flatTier tierName="Translation">train</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="d57ef860-4b1c-44f3-8c30-08aca49d2fc8" excludeFromSearches="false">
@@ -5448,14 +4972,10 @@
             <flatTier tierName="Translation">sunflower</flatTier>
             <flatTier tierName="SegType">i</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5476,8 +4996,8 @@
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
+                        <ph indexes="4" scType="N" hiatus="false"/>
                         <ph indexes="5" scType="C"/>
                     </sb>
                 </pg>
@@ -5491,8 +5011,8 @@
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4 5" scType="O"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
                         <ph indexes="8" scType="C"/>
                     </sb>
                 </pg>
@@ -5511,19 +5031,13 @@
             <flatTier tierName="Translation">train</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="244b5a16-69b6-49e0-b4b1-a82a6931707b" excludeFromSearches="false">
@@ -5567,19 +5081,13 @@
             <flatTier tierName="Translation">apple</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="155aa558-5624-465d-a06a-4da818284401" excludeFromSearches="false">
@@ -5636,8 +5144,8 @@
             <alignment type="segmental">
                 <ag length="5">
                     <phomap value="0 0"/>
-                    <phomap value="1 1"/>
-                    <phomap value="2 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 1"/>
                     <phomap value="3 2"/>
                     <phomap value="4 -1"/>
                 </ag>
@@ -5651,28 +5159,16 @@
             <flatTier tierName="Translation">other book</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="bef3b7ef-fdb0-4b04-9057-ba0f0ff635d3" excludeFromSearches="false">
@@ -5711,19 +5207,13 @@
             <flatTier tierName="Translation">cow</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="176e216e-b3e0-41fa-b2f2-5e9b3531cf68" excludeFromSearches="false">
@@ -5790,14 +5280,10 @@
             <flatTier tierName="Translation">lady-bird (dim)</flatTier>
             <flatTier tierName="SegType">i</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5844,14 +5330,10 @@
             <flatTier tierName="Translation">tree</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5898,14 +5380,10 @@
             <flatTier tierName="Translation">tree</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5936,30 +5414,27 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2 3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="2 3" scType="N" hiatus="false"/>
+                        <ph indexes="4" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="3">
+                <ag length="4">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 2"/>
+                    <phomap value="-1 2"/>
+                    <phomap value="2 -1"/>
                 </ag>
             </alignment>
             <segment startTime="86132.0" duration="573.0" unitType="ms"/>
             <flatTier tierName="Translation">ball</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -5980,8 +5455,8 @@
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
+                        <ph indexes="4" scType="N" hiatus="false"/>
                         <ph indexes="5" scType="C"/>
                     </sb>
                 </pg>
@@ -5995,8 +5470,8 @@
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                         <ph indexes="7" scType="C"/>
                     </sb>
                 </pg>
@@ -6015,14 +5490,10 @@
             <flatTier tierName="Translation">grape</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6074,14 +5545,10 @@
             <flatTier tierName="Translation">building-blocks</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6123,8 +5590,8 @@
                 <ag length="5">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 -1"/>
-                    <phomap value="3 2"/>
+                    <phomap value="2 2"/>
+                    <phomap value="3 -1"/>
                     <phomap value="4 -1"/>
                 </ag>
             </alignment>
@@ -6132,14 +5599,10 @@
             <flatTier tierName="Translation">pig</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6191,14 +5654,10 @@
             <flatTier tierName="Translation">pig</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6221,8 +5680,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
                 <pg>
@@ -6276,28 +5735,16 @@
             <flatTier tierName="Translation">lion daddy (daddy-lion)</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="34a1e6df-b230-4e22-b52f-f77bdfadc3c8" excludeFromSearches="false">
@@ -6316,7 +5763,7 @@
                         <ph indexes="3" scType="O"/>
                         <ph indexes="4" scType="N" hiatus="true"/>
                         <ph indexes="5" scType="SS"/>
-                        <ph indexes="6" scType="LA"/>
+                        <ph indexes="6" scType="O"/>
                         <ph indexes="7" scType="O"/>
                         <ph indexes="8" scType="N" hiatus="true"/>
                         <ph indexes="9" scType="C"/>
@@ -6344,8 +5791,8 @@
                     <phomap value="1 1"/>
                     <phomap value="2 2"/>
                     <phomap value="3 3"/>
-                    <phomap value="4 4"/>
-                    <phomap value="5 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 4"/>
                     <phomap value="6 5"/>
                     <phomap value="7 -1"/>
                 </ag>
@@ -6354,14 +5801,10 @@
             <flatTier tierName="Translation">toadstool</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6413,19 +5856,13 @@
             <flatTier tierName="Translation">bear (dim)</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="1ae56499-9021-41a0-9dc1-9f517e410be4" excludeFromSearches="false">
@@ -6445,8 +5882,8 @@
                         <ph indexes="4" scType="C"/>
                         <ph indexes="5" scType="SS"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="C"/>
                     </sb>
                 </pg>
@@ -6461,8 +5898,8 @@
                         <ph indexes="3 4" scType="C"/>
                         <ph indexes="5" scType="SS"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8" scType="N" hiatus="false"/>
                         <ph indexes="9 10 11 12" scType="C"/>
                     </sb>
                 </pg>
@@ -6483,19 +5920,13 @@
             <flatTier tierName="Translation">airplane</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="e68a0d03-e86e-407a-a204-e410d49cdad3" excludeFromSearches="false">
@@ -6524,7 +5955,7 @@
                         <ph indexes="1" scType="O"/>
                         <ph indexes="2 3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="C"/>
-                        <ph indexes="5" scType="RA"/>
+                        <ph indexes="5" scType="C"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -6540,14 +5971,10 @@
             <flatTier tierName="Translation">deer</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6594,14 +6021,10 @@
             <flatTier tierName="Translation">cock</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6648,14 +6071,10 @@
             <flatTier tierName="Translation">ears</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6699,29 +6118,24 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="8">
+                <ag length="7">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
                     <phomap value="2 2"/>
-                    <phomap value="-1 3"/>
-                    <phomap value="3 4"/>
+                    <phomap value="3 -1"/>
                     <phomap value="4 -1"/>
-                    <phomap value="5 -1"/>
-                    <phomap value="6 -1"/>
+                    <phomap value="5 3"/>
+                    <phomap value="6 4"/>
                 </ag>
             </alignment>
             <segment startTime="98301.0" duration="985.0" unitType="ms"/>
             <flatTier tierName="Translation">penguin</flatTier>
             <flatTier tierName="SegType">i</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6768,13 +6182,13 @@
             </ipaTier>
             <alignment type="segmental">
                 <ag length="9">
-                    <phomap value="0 -1"/>
-                    <phomap value="1 0"/>
+                    <phomap value="0 0"/>
+                    <phomap value="1 -1"/>
                     <phomap value="2 -1"/>
                     <phomap value="3 1"/>
-                    <phomap value="4 2"/>
+                    <phomap value="4 -1"/>
                     <phomap value="5 -1"/>
-                    <phomap value="6 -1"/>
+                    <phomap value="6 2"/>
                     <phomap value="7 3"/>
                     <phomap value="8 4"/>
                 </ag>
@@ -6783,14 +6197,10 @@
             <flatTier tierName="Translation">grass-hopper</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6841,19 +6251,13 @@
             <flatTier tierName="Translation">pail</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="972932ad-43b0-4eeb-af2b-53fe0b1aa05d" excludeFromSearches="false">
@@ -6900,14 +6304,10 @@
             <flatTier tierName="Translation">mug</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6927,8 +6327,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
@@ -6939,8 +6339,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4 5" scType="C"/>
                     </sb>
                 </pg>
@@ -6957,14 +6357,10 @@
             <flatTier tierName="Translation">mouse</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -6983,8 +6379,8 @@
                     <w>ˈɛi</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="N" hiatus="false"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -6994,8 +6390,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2 3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="2 3" scType="N" hiatus="false"/>
+                        <ph indexes="4" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -7010,19 +6406,13 @@
             <flatTier tierName="Translation">egg</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="f99e7b13-334c-4248-bb54-2956a2e0c7b1" excludeFromSearches="false">
@@ -7036,8 +6426,8 @@
                     <w>ˈɛiəʀə</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="N" hiatus="false"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="O"/>
                         <ph indexes="5" scType="N" hiatus="true"/>
@@ -7050,8 +6440,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2 3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="2 3" scType="N" hiatus="false"/>
+                        <ph indexes="4" scType="N" hiatus="false"/>
                         <ph indexes="5" scType="O"/>
                         <ph indexes="6" scType="N" hiatus="true"/>
                     </sb>
@@ -7071,14 +6461,10 @@
             <flatTier tierName="Translation">eggs</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7114,8 +6500,8 @@
                         <ph indexes="2 3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="SS"/>
                         <ph indexes="5" scType="O"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
-                        <ph indexes="7 8" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
+                        <ph indexes="7 8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="C"/>
                     </sb>
                 </pg>
@@ -7134,19 +6520,13 @@
             <flatTier tierName="Translation">balloon</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="91657fb0-c05c-48da-9c35-7fcf28348c31" excludeFromSearches="false">
@@ -7177,8 +6557,8 @@
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -7196,14 +6576,10 @@
             <flatTier tierName="Translation">paper</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7236,8 +6612,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2 3" scType="N" hiatus="true"/>
-                        <ph indexes="4 5" scType="N" hiatus="true"/>
+                        <ph indexes="2 3" scType="N" hiatus="false"/>
+                        <ph indexes="4 5" scType="N" hiatus="false"/>
                         <ph indexes="6" scType="SS"/>
                         <ph indexes="7" scType="O"/>
                         <ph indexes="8 9" scType="N" hiatus="true"/>
@@ -7258,14 +6634,10 @@
             <flatTier tierName="Translation">paper</flatTier>
             <flatTier tierName="SegType">i</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7318,14 +6690,10 @@
             <flatTier tierName="Translation">paper</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7344,7 +6712,7 @@
                     <w>ˈsχunə</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1" scType="LA"/>
+                        <ph indexes="1" scType="O"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="O"/>
@@ -7377,19 +6745,13 @@
             <flatTier tierName="Translation">shoes</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="119d1c62-a047-42a0-a6d8-23cdde28cf0e" excludeFromSearches="false">
@@ -7409,8 +6771,8 @@
                         <ph indexes="4" scType="SS"/>
                         <ph indexes="5" scType="O"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="O"/>
                         <ph indexes="10" scType="N" hiatus="true"/>
                         <ph indexes="11" scType="C"/>
@@ -7435,8 +6797,8 @@
                 <ag length="10">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 -1"/>
-                    <phomap value="3 2"/>
+                    <phomap value="2 2"/>
+                    <phomap value="3 -1"/>
                     <phomap value="4 -1"/>
                     <phomap value="5 3"/>
                     <phomap value="6 -1"/>
@@ -7449,14 +6811,10 @@
             <flatTier tierName="Translation">clothes-peg</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7481,8 +6839,8 @@
                         <ph indexes="4" scType="SS"/>
                         <ph indexes="5" scType="O"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="O"/>
                         <ph indexes="10" scType="N" hiatus="true"/>
                         <ph indexes="11" scType="C"/>
@@ -7510,8 +6868,8 @@
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
                     <phomap value="2 2"/>
-                    <phomap value="3 3"/>
-                    <phomap value="4 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 3"/>
                     <phomap value="5 4"/>
                     <phomap value="6 -1"/>
                     <phomap value="7 5"/>
@@ -7523,14 +6881,10 @@
             <flatTier tierName="Translation">clothes-peg</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7555,8 +6909,8 @@
                         <ph indexes="4" scType="SS"/>
                         <ph indexes="5" scType="O"/>
                         <ph indexes="6" scType="O"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8" scType="N" hiatus="false"/>
                         <ph indexes="9" scType="O"/>
                         <ph indexes="10" scType="N" hiatus="true"/>
                         <ph indexes="11" scType="C"/>
@@ -7580,12 +6934,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="10">
+                <ag length="11">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
                     <phomap value="2 2"/>
+                    <phomap value="-1 3"/>
                     <phomap value="3 -1"/>
-                    <phomap value="4 3"/>
+                    <phomap value="4 -1"/>
                     <phomap value="5 -1"/>
                     <phomap value="6 4"/>
                     <phomap value="7 5"/>
@@ -7597,14 +6952,10 @@
             <flatTier tierName="Translation">clothes-peg</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7649,10 +7000,11 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="8">
+                <ag length="9">
                     <phomap value="-1 0"/>
                     <phomap value="0 1"/>
-                    <phomap value="1 2"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="-1 2"/>
                     <phomap value="2 -1"/>
                     <phomap value="3 -1"/>
                     <phomap value="4 3"/>
@@ -7664,19 +7016,13 @@
             <flatTier tierName="Translation">elephant</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="8ef86c00-0cfa-4547-b7b7-98497c26e9f7" excludeFromSearches="false">
@@ -7711,8 +7057,8 @@
                         <ph indexes="4" scType="O"/>
                         <ph indexes="5" scType="N" hiatus="true"/>
                         <ph indexes="6" scType="SS"/>
-                        <ph indexes="7" scType="N" hiatus="true"/>
-                        <ph indexes="8 9" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="N" hiatus="false"/>
+                        <ph indexes="8 9" scType="N" hiatus="false"/>
                         <ph indexes="10" scType="O"/>
                         <ph indexes="11" scType="N" hiatus="true"/>
                     </sb>
@@ -7734,14 +7080,10 @@
             <flatTier tierName="Translation">ambulance</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7813,28 +7155,16 @@
             <flatTier tierName="Translation">more book</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="248c356e-773b-4cf1-a7ba-cabf334a811c" excludeFromSearches="false">
@@ -7861,8 +7191,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="O"/>
                         <ph indexes="5 6 7" scType="N" hiatus="true"/>
                     </sb>
@@ -7871,8 +7201,8 @@
             <alignment type="segmental">
                 <ag length="5">
                     <phomap value="0 0"/>
-                    <phomap value="1 1"/>
-                    <phomap value="-1 2"/>
+                    <phomap value="-1 1"/>
+                    <phomap value="1 2"/>
                     <phomap value="2 3"/>
                     <phomap value="3 4"/>
                 </ag>
@@ -7881,14 +7211,10 @@
             <flatTier tierName="Translation">wagon</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7922,7 +7248,7 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2 3" scType="N" hiatus="true"/>
+                        <ph indexes="2 3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="O"/>
                         <ph indexes="5 6" scType="N" hiatus="true"/>
                         <ph indexes="7" scType="C"/>
@@ -7942,14 +7268,10 @@
             <flatTier tierName="Translation">banana</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -7988,10 +7310,11 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="4">
+                <ag length="5">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 2"/>
+                    <phomap value="-1 2"/>
+                    <phomap value="2 -1"/>
                     <phomap value="3 -1"/>
                 </ag>
             </alignment>
@@ -7999,19 +7322,13 @@
             <flatTier tierName="Translation">apple</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="1d338f2a-0f7c-49bd-a455-bbb2ec3610c5" excludeFromSearches="false">
@@ -8055,19 +7372,13 @@
             <flatTier tierName="Translation">apple</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
         </u>
         <u speaker="p0" id="71501030-0956-47c4-a3f4-325f16a6954b" excludeFromSearches="false">
@@ -8093,8 +7404,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
@@ -8111,14 +7422,10 @@
             <flatTier tierName="Translation">cheese</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -8153,8 +7460,8 @@
                         <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -8172,14 +7479,10 @@
             <flatTier tierName="Translation">glasses</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -8199,8 +7502,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
@@ -8211,8 +7514,8 @@
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
-                        <ph indexes="2" scType="N" hiatus="true"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="N" hiatus="false"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
                         <ph indexes="4" scType="C"/>
                     </sb>
                 </pg>
@@ -8229,14 +7532,10 @@
             <flatTier tierName="Translation">mouse</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -8259,8 +7558,8 @@
                         <ph indexes="2" scType="C"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -8272,8 +7571,8 @@
                         <ph indexes="1 2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="SS"/>
                         <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="N" hiatus="false"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -8290,14 +7589,10 @@
             <flatTier tierName="Translation">strawberry</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
@@ -8340,8 +7635,8 @@
                 <ag length="5">
                     <phomap value="0 0"/>
                     <phomap value="1 1"/>
-                    <phomap value="2 2"/>
-                    <phomap value="3 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 2"/>
                     <phomap value="4 3"/>
                 </ag>
             </alignment>
@@ -8349,14 +7644,10 @@
             <flatTier tierName="Translation">cup</flatTier>
             <flatTier tierName="SegType">s</flatTier>
             <groupTier tierName="Actual Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="Target Validation">
-                <tg>
-                    <w></w>
-                </tg>
+                <tg/>
             </groupTier>
             <groupTier tierName="MorphCat">
                 <tg>
